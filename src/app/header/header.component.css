@@ -1,0 +1,26 @@
+a{
+
+    padding: 20px;  
+      
+  }
+  
+  
+  .btn{
+  
+    margin: 10px;
+    border: none;
+  }
+  .img{
+  
+    text-align: left;
+  }
+  .badge{
+  
+    font-size: 7px;
+    position: absolute;
+    background-color: rgb(150, 6, 6);
+    margin-left: -10px;
+    margin-top: -6px;
+  
+  }
+  

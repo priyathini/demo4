@@ -1,0 +1,24 @@
+.form-control.ng-invalid.ng-touched{
+    border: 1px solid red;
+    
+}
+button{
+
+    margin: 10px;
+   
+    
+    
+}
+td .btn{
+
+   border: none;
+
+}
+.container-fluid{
+background-color: white;
+}
+.help-block{
+    color: red;
+}
+
+

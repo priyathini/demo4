@@ -1,0 +1,14 @@
+.btn-primary{
+    margin-top: 5px;
+    margin: 5px;
+   
+}
+.slot, .show{
+    border: solid 1px;;  
+    padding: 5px;
+    border-color:gray;
+    display: inline-block;
+    color:green;
+    margin-right: 10px;
+    border-color: green;
+}

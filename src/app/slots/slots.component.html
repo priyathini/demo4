@@ -1,0 +1,20 @@
+<div class="container btn-toolbar">
+  <div class="row">
+    <div class="col-md-7">
+
+      <h2>Booking The Slots.......</h2>
+      <p>slot starts from 9 am to 9 pm</p>
+      <div *ngFor="let date of dates">
+        <button type="button" class="btn btn-primary " (click)="getSlots(date)">{{date}}</button>
+
+      </div>
+    </div>
+  </div>
+</div>
+<hr>
+<div class="row">
+  <div class="col-md-5">
+    <p *ngFor="let slot of slots" class="slot">{{slot}}</p>
+      <!-- <hr> -->
+  </div>
+</div>

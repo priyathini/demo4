@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "id": "4",
+      "name": "Naveen223",
+      "username": "Naveen Hakuna",
+      "email": "Naveen@123"
+    },
+    {
+      "id": "5",
+      "name": "Shobana 234",
+      "username": "shobana Hakuna",
+      "email": "shobana@123"
+    },
+    {
+      "id": "6",
+      "name": "Ashok 1",
+      "username": "Ashok solora 3",
+      "email": "Ashok@123"
+    },
+    {
+      "id": "1",
+      "name": "priyathini",
+      "username": "priyathini hakuna ",
+      "email": "priyathini@1234"
+    },
+    {
+      "id": "14",
+      "name": "Mohana",
+      "username": "Mohana hakuna ",
+      "email": "Mohana@143"
+    },
+    {
+      "id": "7",
+      "name": "Alwin Thinakaran A",
+      "username": "Alwin hakuna ",
+      "email": "Alwin@1234"
+    }
+  ]
+}
